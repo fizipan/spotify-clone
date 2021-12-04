@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 export default function UserAccount() {
   return (
-    <header className="absolute top-5 right-0">
+    <header className="absolute top-5 right-2">
       <div className="flex items-center bg-black space-x-3 opacity-90 hover:opacity-80 cursor-pointer rounded-full p-1 pr-2">
         <Image
           src="/assets/images/user-account.png"

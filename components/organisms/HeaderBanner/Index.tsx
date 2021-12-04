@@ -3,7 +3,7 @@ import { shuffle } from 'lodash';
 import classNames from 'classnames';
 
 // Components
-import UserAccount from '@/components/atoms/UserAccount';
+import UserAccount from '@/components/atoms/UserAccount/Index';
 
 const colorsBanner: string[] = [
   'from-indigo-500',
